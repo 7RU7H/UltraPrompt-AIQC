@@ -7,6 +7,7 @@ import (
 	"strings"
 )
 
+
 func main() {
 	// 1. Define flags
 	promptPath := flag.String("p", "", "Path to the base prompt file")

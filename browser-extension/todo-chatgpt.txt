@@ -1,0 +1,57 @@
+9. Useful Future Features
+
+You can upgrade it with:
+
+⭐ Prompt library
+Save many prompts
+
+⭐ Categories
+
+Coding
+
+Writing
+
+Marketing
+
+⭐ Quick shortcut
+
+Ctrl + Shift + P
+
+⭐ Right-click menu
+
+⭐ Auto-fill ChatGPT textbox
+
+⭐ Prompt variables
+
+Example:
+
+Write a blog about {{topic}}
+10. Advanced Idea (Very Powerful)
+
+Make a “Prompt AI Toolkit” extension:
+
+Features:
+
+prompt library
+
+prompt templates
+
+auto paste
+
+one-click rewrite
+
+ChatGPT sidebar
+
+clipboard history
+
+This type of extension can actually be published on the Chrome Web Store.
+
+✅ If you want, I can also show you:
+
+A much more powerful Prompt Manager extension architecture
+
+How to auto-detect ChatGPT / Claude input boxes
+
+How to build a floating prompt panel
+
+How to publish it on the Chrome Web Store.
